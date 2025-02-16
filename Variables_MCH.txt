@@ -1,0 +1,41 @@
+Variable	VariabAbbrev	VariabDescrn	TableName	Unit	TypeDDorDE	CumulType	NbrDecimal	CalcbyGrp	CalcDTaD
+BrumeSeche	BS	Brume sèche	brumeseche	code	DD	CUMU	0	MEAN	CUMULAT
+DirectionVent	WDD	Direction vent dominant sur 10 mn	directionvent	°	DD	MEAN	1	MEAN	MEAN
+EvapoPiche	EVP	Evaporation Piche	evapopiche	mm	DD	CUMU	1	MEAN	CUMULAT
+Evaporation	EV	Evaporation	evaporation	mm	DD	CUMU	1	MEAN	CUMULAT
+HeureHRMax	TUX	Heure humidité relative maximale	heurehrmax	h	DD	MEAN	1	MEAN	MEAN
+HeureHRMin	TUN	Heure humidité relative minimale	heurehrmin	h	DD	MEAN	1	MEAN	MEAN
+HeureTempMax	TTX	Heure Temperature maximale	heuretempmax	h	DD	MEAN	1	MEAN	MEAN
+HeureTempMin	TTN	Heure Temperature minimale	heuretempmin	h	DD	MEAN	1	MEAN	MEAN
+HeureWFFmax	TFFX	Heure vitesse maximale du vent	heurewffmax	h	DD	MEAN	1	MEAN	MEAN
+HumiditeMaxi	UMAX	Humidité maxi journalière	humiditemaxi	%	DD	MEAN	1	MEAN	MEAN
+HumiditeMini	UMIN	Humidité mini journalière	humiditemini	%	DD	MEAN	1	MEAN	MEAN
+HumiditeRelatv	UR	Humidité relative	humiditerelatv	%	DE	MEAN	0	MEAN	MEAN
+InsolationJour	SUND	Durée Insolation jour	insolationjour	h	DD	CUMU	1	MEAN	CUMULAT
+InsolMatin	SUNM	Durée Insolation Matin	insolmatin	h	DD	CUMU	1	MEAN	CUMULAT
+InsolSoir	SUNA	Durée Insolation soir	insolsoir	h	DD	CUMU	1	MEAN	CUMULAT
+IntensitePluie	RRI	Intensité de pluie	intensitepluie	mm/h	DD	MEAN	1	MEAN	MEAN
+NebulositeTot	CLD	Nébulosité totale	nebulositetot	octa	DD	MEAN	1	MEAN	MEAN
+Pluie	RR	Pluie	pluie	mm	DD	CUMU	1	MEAN	CUMULAT
+PressionMer	PSEA	Pression mer	pressionmer	hPa	DE	MEAN	1	MEAN	MEAN
+PressMerMaxMat	PSEAMA	Pression mer maximale matin	pressmermaxmat	hPa	DD	MEAN	1	MEAN	MEAN
+PressMerMaxSoi	PSEASA	Pression mer maximale soir	pressmermaxsoi	hPa	DD	MEAN	1	MEAN	MEAN
+PressMerMinMat	PSEAMI	Pression mer minimale matin	pressmerminmat	hPa	DD	MEAN	1	MEAN	MEAN
+PressMerMinSoi	PSEASI	Pression mer minimale soir	pressmerminsoi	hPa	DD	MEAN	1	MEAN	MEAN
+RadiationSolair	RADW	Radiation Solaire en Watt	radiationsolair	W/m²	DE	MEAN	1	MEAN	t
+TemperatureAir	TEMP	Température air	temperatureair	°C	DE	MEAN	1	MEAN	MEAN
+TemperatureMax	TMAX	Température maximale sous abris	temperaturemax	°C	DD	MEAN	1	MEAN	MEAN
+TemperatureMin	TMIN	Température minimale sous abris	temperaturemin	°C	DD	MEAN	1	MEAN	MEAN
+TempMaxSol	TXS	Temperature max sol journalière	tempmaxsol	°C	DD	MEAN	1	MEAN	MEAN
+TempMiniSol	TNS	Temperature minimale au sol	tempminisol	°C	DD	MEAN	1	MEAN	MEAN
+TempMouille	TWET	Temperature Thermo mouillé	tempmouille	°C	DE	MEAN	1	MEAN	MEAN
+TempPointRosee	TD	Température point de rosée	temppointrosee	°C	DE	MEAN	1	MEAN	MEAN
+TempSol-10	TS-10	Temperature dans le sol à 10 cm	tempsol-10	°C	DD	MEAN	1	MEAN	MEAN
+TempSol-100	TS-100	Temperature dans le sol à 100 cm	tempsol-100	°C	DD	MEAN	1	MEAN	MEAN
+TempSol-20	TS-20	Temperature dans le sol à 20 cm	tempsol-20	°C	DD	MEAN	1	MEAN	MEAN
+TempSol-50	TS-50	Temperature dans le sol à 50 cm	tempsol-50	°C	DD	MEAN	1	MEAN	MEAN
+TensionVapeur	ED	Tension de vapeur	tensionvapeur	hPa	DE	MEAN	1	MEAN	MEAN
+Visibilite	VISNT	Visibilité	visibilite	dam	DE	MEAN	0	MEAN	MEAN
+VisibiliteMini	VISN	Visibilité minimale journalière	visibilitemini	dam	DD	MEAN	0	MEAN	MEAN
+VitesseVent	WFF	Vitesse moy sur 10 mn à 10 m	vitessevent	m/s	DE	MEAN	1	MEAN	MEAN
+VitesseVentMax	FFX	Vitesse maximale du vent journalière	vitesseventmax	m/s	DD	MEAN	1	MEAN	MEAN

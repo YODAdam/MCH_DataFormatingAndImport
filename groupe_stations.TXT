@@ -1,0 +1,9 @@
+StnGroup	Station	StationName
+synoptique	200001S	Ouagadougou aéro
+synoptique	200026S	Dori
+synoptique	200035S	Ouahigouya
+synoptique	200085S	Bogandé
+synoptique	200099S	Bobo-Dioulasso
+synoptique	200107S	Boromo
+synoptique	200114S	Pô
+synoptique	200140S	Gaoua
